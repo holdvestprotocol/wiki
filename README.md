@@ -2,6 +2,20 @@
 description: The liquidity aggregator protocol.
 ---
 
+##### Table of contents
+* [Holdvest Protocol overview](#holdvest-protocol-overview)  
+* [Holdvest Protocol architecture](#holdvest-protocol-architecture)  
+* [Holdvest Protocol: components and modules](#holdvest-protocol-components-and-modules)
+  * [Order matching engine](#order-matching-engine)
+  * [Multi-currency wallet](#multi-currency-wallet)
+  * [Price monitor](#price-monitor)
+  * [Portfolio management](#portfolio-management)
+  * [Crypto index funds module](#crypto-index-funds-module)
+  * [Liquidity lending module](#liquidity-lending-module)
+* [dApps marketplace](#dapps-marketplace)
+  * [Example scenarios](#example-scenarios)
+
+
 # The Holdvest Protocol
 
 _Holdvest will be open sourcing some of its core components to the Holdvest Foundation. The Holdvest Protocol is the name of the underlying protocol on which the Holdvest platform runs. This will mean standardising the API and architecture of the platform’s liquidity aggregator protocol._
