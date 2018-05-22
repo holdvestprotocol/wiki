@@ -24,7 +24,7 @@ _Ultimately, the intention is to create a combined protocol for connecting to bo
 
 ## **Holdvest Protocol overview**
 
-The Holdvest Protocol is a standard for connecting to centralised and decentralised exchanges’ orderbooks, allowing the creation of dApps to provide robust services for buying and selling any cryptocurrency at the best price the market has to offer at the time. Similar protocols exist for Ethereum, such as the 0x project \([https://0xproject.com](https://0xproject.com)\), but apply solely to decentralised exchanges operating on one blockchain.
+The Holdvest Protocol is a standard for connecting to centralised and decentralised exchanges’ orderbooks, allowing the creation of dApps to provide robust services for buying and selling any cryptocurrency at the best price the market has to offer at the time. There is no other protocol that exists in the market right now which does this. A few that do are specific to DEX and only for Ethereum (0x protocol for example). Holdvest protocol can support multiple currencies, both DEX and centralized exchanges.
 
 There is a growing need in the crypto world for secure, reliable, trustless cross-blockchain exchanges. Holdvest unifies connections to many existing exchanges, providing standardised API access to all of them. Whilst every exchange has differences in data formats and methods of connection and making calls, Holdvest will hide these behind one single API format.
 
